@@ -1,0 +1,12 @@
+{
+  "name": "Stacks dApp Template",
+  "start_url": "/",
+  "description": "A modern, production-ready template for building decentralized applications on Stacks blockchain",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
