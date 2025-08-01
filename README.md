@@ -2,7 +2,7 @@
 
 A modern, production-ready template for building decentralized applications on Stacks with Next.js.
 
-> This project was initially bootstrapped with platform-template-blank-project, but has been heavily modified.
+> This project was initially bootstrapped with https://github.com/hirosystems/platform-template-blank-project/tree/main, but has been heavily modified.
 
 ## ✨ Features
 
